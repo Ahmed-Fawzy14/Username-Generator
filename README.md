@@ -1,16 +1,28 @@
-# random_name_generator_app
+# Username Generator
 
-A new Flutter project.
+Welcome to the **Username Generator** repository! 🎉 This project provides a tool for generating unique, random usernames based on user preferences.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+- **Random Username Generation**: Generate usernames with various combinations of word pairs.
+- **User-Friendly Interface**: Simple and intuitive user interface for easy username generation.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To install and use the Username Generator, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Ahmed-Fawzy14/Username-Generator.git
+    cd Username-Generator
+    ```
+
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3. **Run the application**:
+    ```bash
+    npm start
+    ```
